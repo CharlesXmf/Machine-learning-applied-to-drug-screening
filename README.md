@@ -277,7 +277,7 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 ## 👨‍💻 作者
 
-项目作者及维护者信息
+Charles & Skrape
 
 ## 🙏 致谢
 
@@ -287,11 +287,6 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 - XGBoost
 - Transformers (HuggingFace)
 - DeepChem
-
-## 📮 联系方式
-
-- Issues: [GitHub Issues](https://github.com/yourusername/antioxidant-screening/issues)
-- Email: your.email@example.com
 
 ---
 
